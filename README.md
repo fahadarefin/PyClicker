@@ -30,7 +30,7 @@ The **PyClicker Automation Tool** is a Python application that automates mouse c
    Clone the repository using Git:
 
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/fahadarefin/PyClicker
    ```
 
    Alternatively, download the repository as a ZIP file from GitHub and extract it.
